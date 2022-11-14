@@ -391,3 +391,8 @@ Summary
 Congratulations, you have made it to the end of this tutorial!
 
 In this tutorial, we have built the song recommender system using cosine similarity and Sigmoid kernel. This developed recommender system is a content-based recommender system. In another article, we have developed the recommender system using collaborative filtering. You can check that article here Book Recommender System using KNN. You can also check another article on the NLP-based recommender system.
+
+# Authors black_nib
+Amen Mengstu <AmenMengstu> <https://github.com/AmenMengstu>
+    License lock
+This project is licensed under the MIT License - see the LICENSE file for details.
